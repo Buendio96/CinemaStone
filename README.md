@@ -1,10 +1,10 @@
 # CinemaStone
 The online cinema project is being developed to improve and consolidate knowledge of the following 
-STACK: 
-Webpack, 
-Handlebars, 
-SCSS, 
-Vanilla JS. 
+STACK:   
+Webpack,  
+Handlebars,  
+SCSS,  
+Vanilla JS.  
 
 The main API used is TMDB.  
 
